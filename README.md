@@ -1,6 +1,6 @@
 # Jeb Kharchi
 
-#### The system is proposed to solve the issue of “Where is my money going ???” 
+#### The system is proposed to solve the issue of _“Where is my money going ???”_ 
 ![Expense Tracker](https://i.ibb.co/Njh09Zz/jeb-kharchi.jpg)
 
 
