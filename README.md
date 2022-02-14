@@ -25,3 +25,4 @@ The proposed solution is a system that helps users track their spending accordin
 
 ## Setup:
 - run ```npm i && npm start```
+ 
