@@ -8,7 +8,7 @@
 
 The proposed solution is a system that helps users track their spending according to the customized categories and shows the users spending in a visual format which will help the individual re-evaluate their life choices regarding money.
 
-
+ 
 ## Working:
 1. It throws a form ans asks the user to input their spending either in the form of text or speech.  
 2. Once the user has filled, it automatically draws a pie pie to display this INCOME v/s EXPENSE.
