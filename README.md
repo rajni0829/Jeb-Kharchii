@@ -10,8 +10,8 @@ The proposed solution is a system that helps users track their spending accordin
 
  
 ## Working:
-1. It throws a form ans asks the user to input their spending either in the form of text or speech.  
-2. Once the user has filled, it automatically draws a pie pie to display this INCOME v/s EXPENSE.
+1. It throws a form and asks the user to input their spending either in the form of text or speech.  
+2. Once the user has filled, it automatically draws a pie chart to display his INCOME v/s EXPENSE.
 3. Graphical Comparison gives him/her an idea to keep track and reduce unwanted spending.  
 
 
